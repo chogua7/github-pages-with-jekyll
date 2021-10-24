@@ -1,5 +1,5 @@
 ---
-title: The Flip SIde
+title: "The Flip Side"
 date: 2021-10-24
 ---
 "The purpose of this site is to give the ordenary person like you and I a comfortable secure place where you can be free. Free to express your thoughts, feelings
